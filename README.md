@@ -9,7 +9,7 @@
 - https://www.kaggle.com/datasets/polinaminina/bk-agg-features-data/
 - https://www.kaggle.com/datasets/okunevda/international-cp/data
 
-Ссылка на презентацию - LINK
+Ссылка на презентацию - https://drive.google.com/file/d/1NM1HFNZ7DAHKbcYtRkx4OINm1AmDw-oz/view?usp=sharing
 
 Ссылка на скринкаст - https://drive.google.com/file/d/1rTFEt7LmkDgnHTWG9TBOveFMhrsley7o/view?usp=sharing
 
