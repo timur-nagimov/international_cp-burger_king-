@@ -11,6 +11,6 @@
 
 Ссылка на презентацию - LINK
 
-Ссылка на скринкаст - LINK
+Ссылка на скринкаст - https://drive.google.com/file/d/1rTFEt7LmkDgnHTWG9TBOveFMhrsley7o/view?usp=sharing
 
 Лучшее качество на тестовой выборке - SCORE
